@@ -35,21 +35,6 @@ Each recipe page contains:
 ---
 
 ## 📁 Project Structure
-.
-├── Images
-│ ├── Gyros.jpg
-│ ├── Mousakas.jpg
-│ ├── Odin.png
-│ ├── OdinLogo.png
-│ ├── Souvlaki.JPG
-│ └── gif.gif
-├── index.html
-├── recipes
-│ ├── Gyros.html
-│ ├── Mousakas.html
-│ └── Souvlaki.html
-└── style.css
-
 
 - **Images/** folder contains all the photos and graphic assets used in the project.  
 - **index.html** serves as the homepage with navigation links to each recipe.  
